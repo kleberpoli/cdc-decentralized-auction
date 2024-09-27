@@ -32,4 +32,4 @@ Este projeto implementa um contrato inteligente para um **Sistema de Leilão Des
 - Implementar transferência de tokens para o vencedor.
 
 ## Licença
-MIT License
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
